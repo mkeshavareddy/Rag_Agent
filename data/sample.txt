@@ -1,0 +1,15 @@
+Artificial Intelligence (AI) is a branch of computer science that aims to create intelligent machines capable of performing tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, perception, and language understanding.
+
+Machine Learning (ML) is a subset of AI that enables systems to learn and improve from experience without being explicitly programmed. ML algorithms use statistical techniques to enable computers to "learn" from data, identifying patterns and making decisions with minimal human intervention.
+
+Deep Learning is a subset of machine learning that uses neural networks with multiple layers (hence "deep") to analyze various factors of data. Deep learning has been particularly successful in areas such as image recognition, natural language processing, and speech recognition.
+
+Natural Language Processing (NLP) is a field of AI that focuses on the interaction between computers and human language. NLP enables machines to read, understand, and generate human language in a valuable way. Applications include chatbots, translation services, sentiment analysis, and text summarization.
+
+Retrieval-Augmented Generation (RAG) is an AI framework that combines information retrieval with text generation. RAG systems retrieve relevant documents from a knowledge base and use them as context to generate more accurate and informed responses. This approach is particularly useful for question-answering systems and chatbots that need access to up-to-date or domain-specific information.
+
+Vector databases are specialized databases designed to store and query high-dimensional vectors efficiently. They are essential for RAG systems as they enable fast similarity search over embeddings of text documents. Popular vector databases include ChromaDB, Pinecone, and Weaviate.
+
+LangChain is a framework for developing applications powered by language models. It provides tools for connecting LLMs to various data sources, managing prompts, and building complex applications such as RAG systems, agents, and chatbots.
+
+LangGraph is an extension of LangChain that enables building stateful, multi-actor applications with LLMs. It provides a graph-based approach to orchestrating complex workflows, making it easier to build sophisticated AI applications with multiple steps and decision points.
